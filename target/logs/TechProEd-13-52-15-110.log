@@ -1,0 +1,5 @@
+2022-09-05 13:52:15,108 WARN c.m.t.Day12_Log4JTest [main] Warning Log!
+2022-09-05 13:52:15,112 FATAL c.m.t.Day12_Log4JTest [main] Fatal Log!
+2022-09-05 13:52:15,112 ERROR c.m.t.Day12_Log4JTest [main] Error Log!
+2022-09-05 13:52:15,112 DEBUG c.m.t.Day12_Log4JTest [main] Debug Log!
+2022-09-05 13:52:15,112 INFO c.m.t.Day12_Log4JTest [main] Info Log!
